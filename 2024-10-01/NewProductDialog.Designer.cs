@@ -42,7 +42,7 @@ namespace _2024_10_01
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 15);
+            this.label1.Location = new System.Drawing.Point(29, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 0;
@@ -50,7 +50,7 @@ namespace _2024_10_01
             // 
             // nameField
             // 
-            this.nameField.Location = new System.Drawing.Point(61, 12);
+            this.nameField.Location = new System.Drawing.Point(70, 18);
             this.nameField.Name = "nameField";
             this.nameField.Size = new System.Drawing.Size(310, 20);
             this.nameField.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace _2024_10_01
             // 
             // quantityField
             // 
-            this.quantityField.Location = new System.Drawing.Point(61, 38);
+            this.quantityField.Location = new System.Drawing.Point(70, 44);
             this.quantityField.Name = "quantityField";
             this.quantityField.Size = new System.Drawing.Size(310, 20);
             this.quantityField.TabIndex = 3;
@@ -67,7 +67,7 @@ namespace _2024_10_01
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(9, 41);
+            this.label2.Location = new System.Drawing.Point(18, 47);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 13);
             this.label2.TabIndex = 2;
@@ -75,7 +75,7 @@ namespace _2024_10_01
             // 
             // priceField
             // 
-            this.priceField.Location = new System.Drawing.Point(61, 64);
+            this.priceField.Location = new System.Drawing.Point(70, 70);
             this.priceField.Name = "priceField";
             this.priceField.Size = new System.Drawing.Size(310, 20);
             this.priceField.TabIndex = 5;
@@ -84,7 +84,7 @@ namespace _2024_10_01
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(24, 67);
+            this.label3.Location = new System.Drawing.Point(33, 73);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 13);
             this.label3.TabIndex = 4;
@@ -92,7 +92,7 @@ namespace _2024_10_01
             // 
             // okButton
             // 
-            this.okButton.Location = new System.Drawing.Point(296, 116);
+            this.okButton.Location = new System.Drawing.Point(311, 115);
             this.okButton.Name = "okButton";
             this.okButton.Size = new System.Drawing.Size(75, 23);
             this.okButton.TabIndex = 7;
@@ -102,7 +102,7 @@ namespace _2024_10_01
             // 
             // cancelButton
             // 
-            this.cancelButton.Location = new System.Drawing.Point(12, 116);
+            this.cancelButton.Location = new System.Drawing.Point(12, 115);
             this.cancelButton.Name = "cancelButton";
             this.cancelButton.Size = new System.Drawing.Size(75, 23);
             this.cancelButton.TabIndex = 6;
